@@ -1,7 +1,11 @@
       Controle de vendas de Pizza
 Pizzaria: Pizza Alegre
-Vers�o: 001
+Versão: 002
 Operador:
 
 Telefone:
 Cliente:
+CPF:
+E-mail:
+
+Aceitar participar de promoções:? ( ) sim  ( ) não
